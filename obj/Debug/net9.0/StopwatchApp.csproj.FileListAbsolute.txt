@@ -1,0 +1,14 @@
+C:\Users\Yemam\Documents\iman\stopwatchapp\bin\Debug\net9.0\StopwatchApp.exe
+C:\Users\Yemam\Documents\iman\stopwatchapp\bin\Debug\net9.0\StopwatchApp.deps.json
+C:\Users\Yemam\Documents\iman\stopwatchapp\bin\Debug\net9.0\StopwatchApp.runtimeconfig.json
+C:\Users\Yemam\Documents\iman\stopwatchapp\bin\Debug\net9.0\StopwatchApp.dll
+C:\Users\Yemam\Documents\iman\stopwatchapp\bin\Debug\net9.0\StopwatchApp.pdb
+C:\Users\Yemam\Documents\iman\stopwatchapp\obj\Debug\net9.0\StopwatchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yemam\Documents\iman\stopwatchapp\obj\Debug\net9.0\StopwatchApp.AssemblyInfoInputs.cache
+C:\Users\Yemam\Documents\iman\stopwatchapp\obj\Debug\net9.0\StopwatchApp.AssemblyInfo.cs
+C:\Users\Yemam\Documents\iman\stopwatchapp\obj\Debug\net9.0\StopwatchApp.csproj.CoreCompileInputs.cache
+C:\Users\Yemam\Documents\iman\stopwatchapp\obj\Debug\net9.0\StopwatchApp.dll
+C:\Users\Yemam\Documents\iman\stopwatchapp\obj\Debug\net9.0\refint\StopwatchApp.dll
+C:\Users\Yemam\Documents\iman\stopwatchapp\obj\Debug\net9.0\StopwatchApp.pdb
+C:\Users\Yemam\Documents\iman\stopwatchapp\obj\Debug\net9.0\StopwatchApp.genruntimeconfig.cache
+C:\Users\Yemam\Documents\iman\stopwatchapp\obj\Debug\net9.0\ref\StopwatchApp.dll
